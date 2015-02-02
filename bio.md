@@ -15,7 +15,7 @@ In the #stopdrinking channel we spend much of our time simply chatting and goofi
 The initial inspiration and organization came from /u/Franks2000inchTV.  It was based on his vision that everyone feel welcome regardless of how we are trying stop or control our drinking.  Today, this inclusive acceptance remains a guiding principle with the current mod team.
 
 Inspiration in the community is bolstered by individuals sharing the benefits of sobriety and by sharing new problem-solving strategies and coping methods that individuals develop to help them stay sober.
-Getting sober and maintaining a non-drinking lifestyle are difficult for many people to understand, as are the issues that arise in pursuing recovery.
+Getting sober and maintaining a non-drinking lifestyle are difficult for many people to understand, as are the issues that arise in pursuing their goal.
 The majority of adults do not encounter problems related to drinking on a level that many people on SD experience. The world can be an isolating, scary, confusing place for the newly sober person. Members in the community frequently express how safe and refreshing it is to interact with people that "get it".
 
 *    What sets your community apart from others?
