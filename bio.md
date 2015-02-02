@@ -64,7 +64,7 @@ Organized IRC events include [book club](https://www.reddit.com/r/stopdrinking/s
 
 One organizational tradition that we have intentionally created is to keep the moderating of the subreddit and the operation of the IRC channel loosely coupled.  Most of the Reddit mods are not IRC ops and vice versa.  Besides spreading around the work, this helps keep control distributed and hopefully removing any single point of failure.  Given our nature, this balance of control is particularly important to the long term health of the community.
 
-With both IRC and the subreddit we try to foster an emphasis on protecting the new-comer as it is they who need the most help.  In particular, this means that when a mod or an op must exercise their resonsibility and enforce our community guidelines the senority of the individual transgressor does not matter, only their behavior and such that it breaks our guidelines.
+With both IRC and the subreddit we try to foster an emphasis on protecting the newcomer as it is they who need the most help.  In particular, this means that when a mod or an op must exercise their resonsibility and enforce our community guidelines the senority of the individual transgressor does not matter, only their behavior and such that it breaks our guidelines.
 
 *    Does your community have any associated social media or websites? 
 
