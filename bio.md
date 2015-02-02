@@ -3,18 +3,18 @@ The Stopdrinking Community on Reddit and Snoonet
 
 * Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?
 
-Stopdrinking is a community for people to motivate each other to control or stop our drinking. We welcome anyone who wishes to join in by asking for help, offering advice from personal experience, sharing stories, or just encouraging someone who is trying to quit drinking or cut down on our alcohol consumption. 
+Stopdrinking is a community for people to motivate each other to control or stop our drinking. We welcome anyone who wishes to join in by asking for help, offering advice from personal experience, sharing stories, or just encouraging someone who is trying to quit drinking or cut down on their alcohol consumption. 
 
 The general guidelines for participation are in the /r/stopdrinking [wiki](https://www.reddit.com/r/stopdrinking/wiki/index#wiki_guidelines_for_participation) and there are some specific ones [for IRC](https://www.reddit.com/r/stopdrinking/wiki/irchelp#wiki_guidelines_for_behavior).
 
-In the #stopdrinking channel we spend much of our time simply chatting and goofing around in a friendly and informal manner.  However, the moment someone needs help or to talk seriously all that is needed is to say so and we drop our conversation, listen and try to help.  If you are new, expect a bot and maybe a few humans to greet you when you first join but after that we won't pester you.  It's left up to you to ask for help or to talk seriously.  Otherwise, feel free to join in the banter or even just lurk.  There is no "right way" to participate.  The community guidelines can be checked to learn about the few of the "wrong ways" which are either discouraged or prohibited.  In particular we ask that you do not participate in conversation when you are drinking.
+In the #stopdrinking channel we spend much of our time simply chatting and goofing around in a friendly and informal manner.  However, the moment someone needs help or to talk seriously all that is needed is to say so and we drop our conversation, listen and try to help.  If you are new, expect a bot and maybe a few humans to greet you when you first join but after that we won't pester you.  It's left up to you to ask for help or to talk seriously.  Otherwise, feel free to join in the banter or even just lurk.  There is no "right way" to participate.  The community guidelines can be checked to learn about the few "wrong ways" which are either discouraged or prohibited.  In particular we ask that you do not participate in conversation when you are drinking.
 
 
 *    What inspired this community?
 
 The initial inspiration and organization came from /u/Franks2000inchTV.  It was based on his vision that everyone feel welcome regardless of how we are trying stop or control our drinking.  Today, this inclusive acceptance remains a guiding principle with the current mod team.
 
-Other things that continue to inspire this community are sharing the benefits of sobriety and the enjoyment that comes out of sharing experiences about overcoming the problems with drinking alcohol.  Both of these things can be hard for some people to understand, particularly those that do not directly have experience with the problems that drinking alcohol can bring to some people.  Many in the community express how safe and refreshing it is to interact with people that "get it".
+Other things that continue to inspire this community are sharing the benefits of sobriety and our experiences overcoming our problems with drinking alcohol.  Both of these things can be hard for some people to understand, particularly those that do not directly have experience with the problems that drinking alcohol can bring to some people.  Many in the community express how safe and refreshing it is to interact with people that "get it".
 
 *    What sets your community apart from others?
 
@@ -62,6 +62,9 @@ We have semi-regular [Saturday Shares](https://www.reddit.com/r/stopdrinking/sea
 
 Organized IRC events include [book club](https://www.reddit.com/r/stopdrinking/search?q=flair%3Abook&sort=new&restrict_sr=on&t=all) and [movie nights](https://www.reddit.com/r/stopdrinking/search?q=flair%3Amovie&sort=new&restrict_sr=on&t=all).  One of our earliest IRC bots taught us to celebrate [Yi](http://inamidst.com/stuff/esp/tavtime) which we do when we have the tavtime.
 
+One organizational tradition that we have intentionally created is to keep the moderating of the subreddit and the operation of the IRC channel losely coupled.  Most of the Reddit mods are not IRC ops and vice versa.  Besides spreading around the work, this helps keep control distributed and hopefully removing any single point of failure.  Given our nature, this balance of control is particularly important to the long term health of the community.
+
+With both IRC and the subreddit we try to foster an emphasis on protecting the new-comer as it is they who need the most help.  In particular, this means that when a mod or an op must exercise their resonsibility and enforce our community guidelines the senority of the individual transgressor does not matter, only their behavior and such that it breaks our guidelines.
 
 *    Does your community have any associated social media or websites? 
 
