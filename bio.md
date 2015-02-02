@@ -68,9 +68,9 @@ With both IRC and the subreddit we try to foster an emphasis on protecting the n
 
 *    Does your community have any associated social media or websites? 
 
-Of course the [the Stopdrinking subreddit](https://www.reddit.com/r/stopdrinking) is our main social media.  Various community members have started [SDLocal](https://www.reddit.com/r/SDLocal/wiki/index) spin off subs where we can organize meet-ups or providing area-specific information.
+The [the Stopdrinking subreddit](https://www.reddit.com/r/stopdrinking) is our main social media.  Various community members have started [SDLocal](https://www.reddit.com/r/SDLocal/wiki/index) spin off subs where we can organize meet-ups or providing area-specific information.
 
-On Snoonet the community is of course in the channel #stopdrinking and
+On Snoonet the community is in the channel #stopdrinking and
 we use #stopdrinkingmeeting for the book club, movie nights and any
 other (dis)organized events.
 
