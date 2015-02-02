@@ -14,11 +14,13 @@ In the #stopdrinking channel we spend much of our time simply chatting and goofi
 
 The initial inspiration and organization came from /u/Franks2000inchTV.  It was based on his vision that everyone feel welcome regardless of how we are trying stop or control our drinking.  Today, this inclusive acceptance remains a guiding principle with the current mod team.
 
-Other things that continue to inspire this community are sharing the benefits of sobriety and our experiences overcoming our problems with drinking alcohol.  Both of these things can be hard for some people to understand, particularly those that do not directly have experience with the problems that drinking alcohol can bring to some people.  Many in the community express how safe and refreshing it is to interact with people that "get it".
+Inspiration in the community is bolstered by individuals sharing the benefits of sobriety and by sharing new problem-solving strategies and coping methods that individuals develop to help them stay sober.
+Getting sober and maintaining a non-drinking lifestyle are difficult for many people to understand, as are the issues that arise in pursuing recovery.
+The majority of adults do not encounter problems related to drinking on a level that many people on SD experience. The world can be an isolating, scary, confusing place for the newly sober person. Members in the community frequently express how safe and refreshing it is to interact with people that "get it".
 
 *    What sets your community apart from others?
 
-We get reports from many that say the Stopdrinking community is unlike many reddit-based communities in a general sense due to the care we have for each other.  It is not a place for animosity, argument nor the negativity and bile that is all too often found (and to which many of us have contributed in our bad times) in some other subreddits.
+In a general sense, the stopdrinking community is unlike many subreddit-based communities due to the care members have for each other. In SD, there is little animosity, arguments are generally rooted in a deep sense of concern for others, and there is very little negativity expressed towards members. There tends to be no ill-wishing, less troll activity and very few instances of bullying or massive downvoting.
 
 There are other communities devoted to similar efforts.  The Stopdrinking community is unique from many of them in that we do not endorse any particular program nor do we reject those that have at least some legitimacy.
 This is in keeping with the original vision of /u/Franks2000inchTV.
